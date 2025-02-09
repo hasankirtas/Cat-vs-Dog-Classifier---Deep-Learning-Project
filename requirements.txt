@@ -1,0 +1,12 @@
+tensorflow==2.7
+numpy
+pandas
+matplotlib
+pillow
+scikit-learn
+scikit-image
+seaborn
+opencv-python
+tensorflow-hub
+keras-tuner
+imageio

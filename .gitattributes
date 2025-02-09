@@ -1,2 +1,11 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+data/raw/train.zip filter=lfs diff=lfs merge=lfs -text
+data/raw/test.zip filter=lfs diff=lfs merge=lfs -text
+models/cat_dog_classifier_model.h5 filter=lfs diff=lfs merge=lfs -text
+C:/Users/hksan/OneDrive/Belgeler/GitHub/Cat-vs-Dog-Classifier---Deep-Learning-Project/data/raw/train.zip filter=lfs diff=lfs merge=lfs -text
+C:/Users/hksan/OneDrive/Belgeler/GitHub/Cat-vs-Dog-Classifier---Deep-Learning-Project/data/raw/test.zip filter=lfs diff=lfs merge=lfs -text
+C:/Users/hksan/OneDrive/Belgeler/GitHub/Cat-vs-Dog-Classifier---Deep-Learning-Project/models/cat_dog_classifier_model.h5 filter=lfs diff=lfs merge=lfs -text
+C:/Users/hksan/OneDrive/Belgeler/GitHub/Cat-vs-Dog-Classifier---Deep-Learning-Project/data/raw/train.zip filter=lfs diff=lfs merge=lfs -text
+C:/Users/hksan/OneDrive/Belgeler/GitHub/Cat-vs-Dog-Classifier---Deep-Learning-Project/data/raw/test.zip filter=lfs diff=lfs merge=lfs -text
+C:/Users/hksan/OneDrive/Belgeler/GitHub/Cat-vs-Dog-Classifier---Deep-Learning-Project/models/cat_dog_classifier_model.h5 filter=lfs diff=lfs merge=lfs -text
