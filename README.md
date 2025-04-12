@@ -77,6 +77,7 @@ Project/
 ├── README.md
 ├── environment.yml
 ├── requirements.txt
+```
 
 ---
 
@@ -86,7 +87,7 @@ To set up the project environment:
 Using Conda:
 ```bash
 conda env create -f environment.yml
-conda activate your_project_name
+conda activate cat-vs-dog-classifier-dl
 ```
 
 Using Pip:
